@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
 Hi, this is my solution to the tic-tac-toe Tutorial on React.
 
